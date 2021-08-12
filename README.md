@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Netifly](https://your-solution-url.com)
+- Solution URL: [Netifly](https://huddle-landing-page-alenayc.netlify.app/)
 
 ## My process
 
